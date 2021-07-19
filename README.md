@@ -18,7 +18,7 @@
 
 1. [FlutteResume](https://github.com/ManasMalla/FlutteResume) - A simple app helping you getting started to get messy with Flutter and it's widget.
     In the end it helps you build a gorgeous looking resume with everything you have learnt and introduce yourself to Dash, the cute mascot of Flutter and Dart!
-      <img src="https://github.com/ManasMalla/DashingThrough/blob/main/Resources/dashatars.png">
+      [<img src="https://github.com/ManasMalla/DashingThrough/blob/main/Resources/dashatars.png">](https://github.com/ManasMalla/FlutteResume)
 2. [Landmarks](https://github.com/ManasMalla/Landmarks) - Helps you bridge the core concepts of Flutter to animations, complex widgets and much more!
      In the end, it helps you build a stunning repository of the Landmarks 🏞 Dash loves, helping you to explore into the beautiful world 🌏!
-4. <img src = "https://github.com/ManasMalla/DashingThrough/blob/main/Resources/community-hero.png">
+4. [<img src = "https://github.com/ManasMalla/DashingThrough/blob/main/Resources/community-hero.png">](https://github.com/ManasMalla/Landmarks)
